@@ -1,4 +1,4 @@
-# Welcome to Grokking Labs
+# Welcome to Yukti Shaala
 
 Deep explorations into Distributed Systems, Machine Learning, Operations Research, 
 Interactive Applications, and Management.

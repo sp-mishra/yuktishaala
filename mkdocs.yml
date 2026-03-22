@@ -1,7 +1,7 @@
 site_name: Yukti Shaala
 site_description: Deep dives into Distributed Systems, Machine Learning, Operations Research, Interactive Applications, and Management
 site_author: sp-mishra
-site_url: https://sp-mishra.github.io/yuktishaala
+site_url: http://yuktishaala.com
 
 theme:
   name: material
