@@ -1,7 +1,7 @@
 site_name: Grokking Labs
 site_description: Deep dives into Distributed Systems, Machine Learning, Operations Research, Interactive Applications, and Management
 site_author: sp-mishra
-#site_url: https://grokkinglabs.com
+site_url: https://sp-mishra.github.io/grokkinglabs
 
 theme:
   name: material
