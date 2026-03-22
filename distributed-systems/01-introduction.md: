@@ -1,0 +1,39 @@
+# Introduction to Distributed Systems
+
+## What is a Distributed System?
+
+A distributed system is a collection of independent computers that appear
+to its users as a single coherent system.
+
+## Key Characteristics
+
+1. **No central authority** - Multiple independent nodes
+2. **Network communication** - Nodes communicate via messages
+3. **Concurrency** - Operations happen simultaneously
+4. **Failures are common** - Partial failures are expected
+5. **No shared memory** - Each node has its own state
+
+## Why This Matters
+
+Distributed systems power everything modern:
+- Web services and cloud computing
+- Databases and data replication
+- Microservices architectures
+- Blockchain technology
+
+## Prerequisites
+
+- Basic networking knowledge (TCP/IP)
+- Programming fundamentals
+- Database basics
+
+## What You'll Learn in This Section
+
+This section covers:
+- Core concepts and challenges
+- Consistency models and CAP theorem
+- Consensus algorithms
+- Real-world implementations
+- Common pitfalls to avoid
+
+## Next: [Challenges & Concepts](./02-challenges.md)
